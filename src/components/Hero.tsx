@@ -48,7 +48,7 @@ const Hero = () => {
             </div>
             <div className="flex items-center gap-2 bg-earth-blue/20 px-3 py-2 rounded-lg border border-earth-blue/30">
               <MapPin className="w-5 h-5 text-blue-200" />
-              <span className="font-medium text-blue-200">Global Virtual Event</span>
+              <span className="font-medium text-blue-200">ONLINE at USA</span>
             </div>
             <div className="flex items-center gap-2 bg-earth-teal/20 px-3 py-2 rounded-lg border border-earth-teal/30">
               <Users className="w-5 h-5 text-teal-200" />

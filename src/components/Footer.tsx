@@ -50,8 +50,7 @@ const Footer = () => {
               </div>
             </div>
             <p className="text-white/90 leading-relaxed mb-6 max-w-md">
-              Join the 48-hour innovation challenge that brings together students, developers, 
-              and sustainability enthusiasts to create tech solutions for environmental and climate issues.
+              Join the 48-hour innovation challenge that brings together students, developers, and cybersecurity enthusiasts to create tech solutions for real-world challenges in cybersecurity, data privacy, compliance, and emerging technologies.
             </p>
             <div className="relative inline-block">
               <Button 

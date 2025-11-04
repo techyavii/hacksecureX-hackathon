@@ -71,8 +71,7 @@ const Advisory = () => {
           </h2>
           <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Meet our distinguished advisory panel of experts who guide and mentor our hackathon participants. 
-            Our advisors bring decades of experience in technology, AI, sustainability and academic excellence.
+            Meet our distinguished advisory panel of experts who guide and mentor our hackathon participants. Our advisors bring decades of experience in technology, AI, AI ethics, cybersecurity, legal technology and academic excellence.
           </p>
         </div>
 

@@ -8,7 +8,7 @@ const ProgramSchedule = () => {
     {
       title: "Virtual Platform",
       icon: <Video className="w-5 h-5" />,
-      description: "All presentations will be conducted virtually using Google Meet."
+      description: "All presentations will be conducted virtually using Zoom."
     },
     {
       title: "Two Rounds",
@@ -46,7 +46,7 @@ const ProgramSchedule = () => {
           </h1>
           <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            You are cordially invited to participate in the HackSecureX International Hackathon 2025, which will be conducted online via Google Meet.
+            You are cordially invited to participate in the HackSecureX International Hackathon 2025, which will be conducted online via Zoom.
           </p>
         </div>
 
@@ -186,7 +186,7 @@ const ProgramSchedule = () => {
                 📅 Important Notice
               </h3>
               <p className="text-muted-foreground leading-relaxed mb-6">
-                Detailed session timings and Google Meet links will be shared with registered participants 
+                Detailed session timings and Zoom links will be shared with registered participants 
                 closer to the event date. Make sure to check your email regularly for updates.
               </p>
               <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
@@ -196,7 +196,7 @@ const ProgramSchedule = () => {
                 </div>
                 <div className="flex items-center gap-2 text-earth-green font-medium">
                   <Video className="w-5 h-5" />
-                  Google Meet links coming soon
+                  Zoom links coming soon
                 </div>
               </div>
             </CardContent>
