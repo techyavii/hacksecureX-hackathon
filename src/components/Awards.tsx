@@ -54,7 +54,7 @@ const Awards = () => {
           </h2>
           <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            The HACKSECUREX International Hackathon 2025 honors outstanding achievements in sustainable innovation 
+            The HackSecureX International Hackathon 2025 honors outstanding achievements in sustainable innovation 
             through distinguished awards and impactful prizes.
           </p>
         </div>

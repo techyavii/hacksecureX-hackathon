@@ -2,8 +2,8 @@ import { Card, CardContent } from "@/components/ui/card";
 import { CheckCircle, Users } from "lucide-react";
 
 const judgeAwards = [
-  { title: "HACKSECUREX Distinguished Judge Award", description: "For outstanding contributions in evaluating and mentoring teams." },
-  { title: "HACKSECUREX Expert Evaluator Award", description: "For providing deep, insightful and impactful evaluations." },
+  { title: "HackSecureX Distinguished Judge Award", description: "For outstanding contributions in evaluating and mentoring teams." },
+  { title: "HackSecureX Expert Evaluator Award", description: "For providing deep, insightful and impactful evaluations." },
   { title: "Sustainability Champion Judge", description: "For promoting sustainable thinking throughout the judging process." },
   { title: "Tech Visionary Judge", description: "For expertise in assessing technological innovation and feasibility." },
   { title: "Impact Advocate Judge", description: "For emphasis on social and environmental impact during evaluations." },
@@ -20,7 +20,7 @@ const judgeAwards = [
   { title: "Most Supportive Judge Award", description: "For being a consistent source of motivation and guidance." },
   { title: "Best Question-Asker Award", description: "For asking thought-provoking and constructive questions to participants." },
   { title: "EcoVisionary Judge", description: "For judging with a futuristic lens on environmental innovation." },
-  { title: "HACKSECUREX Spirit Award", description: "For embodying the values and mission of the HACKSECUREX Hackathon." },
+  { title: "HackSecureX Spirit Award", description: "For embodying the values and mission of the HackSecureX Hackathon." },
   { title: "Marathon Judge Award", description: "For evaluating the highest number of projects with thoroughness and care." }
 ];
 
@@ -34,7 +34,7 @@ const JudgeRecognitionAwards = () => {
             Judge Recognition Awards
           </h3>
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-            To acknowledge the expertise and dedication of our judges, the following awards will be presented to recognize their invaluable contributions to HACKSECUREX International Hackathon 2025.
+            To acknowledge the expertise and dedication of our judges, the following awards will be presented to recognize their invaluable contributions to HackSecureX International Hackathon 2025.
           </p>
         </div>
       </section>
@@ -72,7 +72,7 @@ const JudgeRecognitionAwards = () => {
             <Users className="w-12 h-12 text-emerald-600 mx-auto mb-5 drop-shadow" />
             <h4 className="text-2xl md:text-3xl font-bold text-foreground mb-4">Environmental Leadership Certificate</h4>
             <p className="text-muted-foreground text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">
-              In recognition of their exceptional contributions to environmental innovation, each judge will be awarded an Environmental Leadership Certificate. These awards acknowledge the judges' expertise and commitment to advancing sustainable solutions for our planet through the HACKSECUREX International Hackathon 2025.
+              In recognition of their exceptional contributions to environmental innovation, each judge will be awarded an Environmental Leadership Certificate. These awards acknowledge the judges' expertise and commitment to advancing sustainable solutions for our planet through the HackSecureX International Hackathon 2025.
             </p>
           </div>
         </div>
@@ -83,7 +83,7 @@ const JudgeRecognitionAwards = () => {
         <div className="text-center bg-gradient-to-r from-emerald-500 to-blue-500 p-8 md:p-12 rounded-3xl text-white shadow-xl">
           <h4 className="text-2xl md:text-3xl font-bold mb-4">Award Ceremony</h4>
           <p className="text-lg md:text-xl opacity-90 mb-3 max-w-2xl mx-auto">
-            The Judges Recognition Awards will be presented during the closing ceremony of HACKSECUREX International Hackathon 2025 on <b>16th January, 2026</b>.
+            The Judges Recognition Awards will be presented during the closing ceremony of HackSecureX International Hackathon 2025 on <b>16th January, 2026</b>.
             We encourage all participants to join us in celebrating the valuable contributions of our esteemed environmental and technology experts.
           </p>
         </div>

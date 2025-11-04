@@ -118,7 +118,7 @@ const JudgeAppointmentCriteriaPage = () => {
                 Judge Appointment Criteria
               </h1>
               <p className="text-xl md:text-2xl opacity-90 max-w-4xl mx-auto leading-relaxed">
-                At HACKSECUREX International Hackathon, we ensure a rigorous evaluation process by assembling a distinguished panel of AI optimization experts, environmental innovation pioneers and sustainable technology researchers.
+                At HackSecureX International Hackathon, we ensure a rigorous evaluation process by assembling a distinguished panel of AI optimization experts, environmental innovation pioneers and sustainable technology researchers.
               </p>
             </div>
           </div>

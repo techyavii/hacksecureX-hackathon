@@ -45,7 +45,7 @@ const Footer = () => {
                 <BrainCog className="w-7 h-7 text-white" />
               </div>
               <div>
-                <h3 className="text-2xl font-bold">HACKSECUREX Hack</h3>
+                <h3 className="text-2xl font-bold">HackSecureX Hack</h3>
                 <p className="text-white/80 text-sm">One Planet. One Purpose.</p>
               </div>
             </div>
@@ -114,7 +114,7 @@ const Footer = () => {
         {/* Bottom Footer */}
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-2 text-white/80 text-sm">
-            <span>© HACKSECUREX International Hackathon 2025</span>
+            <span>© HackSecureX International Hackathon 2025</span>
           </div>
           
           <div className="text-white/60 text-sm text-center md:text-right">

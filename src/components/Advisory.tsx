@@ -40,7 +40,7 @@ const Advisory = () => {
     },
     {
       name: "S.M. Atikur Rahman",
-      affiliation: "University of Piraeus",
+      affiliation: "THE UNIVERSITY OF TEXAS AT EL PASO",
       location: "Texas, USA",
       image: "/lovable-uploads/atikur.jpeg",
       expertise: "Computer Science"

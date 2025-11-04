@@ -9,7 +9,7 @@ const Navigation = () => {
 
   const mainNavItems = [
     { name: "Home", href: "/" },
-    { name: "HACKSECUREX International Hackathon Schedule", href: "/schedule" }
+    { name: "HackSecureX International Hackathon Schedule", href: "/schedule" }
   ];
 
   const resourcesItems = [
@@ -40,7 +40,7 @@ const Navigation = () => {
               <BrainCog className="w-5 h-5 text-white" />
             </div>
             <span className="text-xl font-bold text-foreground">
-              HACKSECUREX International Hackathon
+              HackSecureX International Hackathon
             </span>
           </div>
 

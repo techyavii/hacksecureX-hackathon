@@ -86,7 +86,7 @@ const Hero = () => {
                 className="h-12 md:h-16 object-contain filter "
               />
             </div> */}
-            <div className="flex items-center justify-center p-4 bg-white/10 backdrop-blur-sm rounded-lg border border-white/20 hover:bg-white/20 transition-all duration-300">
+            {/* <div className="flex items-center justify-center p-4 bg-white/10 backdrop-blur-sm rounded-lg border border-white/20 hover:bg-white/20 transition-all duration-300">
               <img 
                 src="/collaborators/cardiff.png" 
                 alt="Cardiff Metropolitan University" 
@@ -99,7 +99,14 @@ const Hero = () => {
                 alt="Manchester Metropolitan University" 
                 className="h-12 md:h-16 object-contain "
               />
-            </div>
+            </div> */}
+            <div className="flex items-center justify-center p-4 bg-white/10 backdrop-blur-sm rounded-lg border border-white/20 hover:bg-white/20 transition-all duration-300">
+            <img 
+              src="/collaborators/utep.jpeg" 
+              alt="University of Texas at El Paso" 
+              className="h-12 md:h-16 object-contain bg-white rounded-lg p-2"
+            />
+          </div>
            <div className="flex items-center justify-center p-4 bg-white/10 backdrop-blur-sm rounded-lg border border-white/20 hover:bg-white/20 transition-all duration-300">
             <img 
               src="/collaborators/USouthFlorida-green-logo.png" 

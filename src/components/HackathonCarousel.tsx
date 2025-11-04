@@ -17,11 +17,11 @@ const HackathonCarousel = () => {
   }, [emblaApi]);
 
   const images = [
-    { src: "/OEH_1.png", alt: "HACKSECUREX Hackathon 2025 Participants" },
-    { src: "/OEH_2.jpg", alt: "HACKSECUREX Hackathon 2025 Team Presentations" },
-    { src: "/OEH_3.png", alt: "HACKSECUREX Hackathon 2025 Award Ceremony" },
-    { src: "/OEH_4.png", alt: "HACKSECUREX Hackathon 2025 Collaboration" },
-    { src: "/OEH_5.png", alt: "HACKSECUREX Hackathon 2025 Innovation" },
+    { src: "/OEH_1.png", alt: "HackSecureX Hackathon 2025 Participants" },
+    { src: "/OEH_2.jpg", alt: "HackSecureX Hackathon 2025 Team Presentations" },
+    { src: "/OEH_3.png", alt: "HackSecureX Hackathon 2025 Award Ceremony" },
+    { src: "/OEH_4.png", alt: "HackSecureX Hackathon 2025 Collaboration" },
+    { src: "/OEH_5.png", alt: "HackSecureX Hackathon 2025 Innovation" },
   ];
 
   return (

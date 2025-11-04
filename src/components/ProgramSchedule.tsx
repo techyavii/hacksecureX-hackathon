@@ -42,11 +42,11 @@ const ProgramSchedule = () => {
         {/* Header */}
         <div className="text-center mb-16">
           <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-            HACKSECUREX International Hackathon 2025 Program Schedule
+            HackSecureX International Hackathon 2025 Program Schedule
           </h1>
           <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            You are cordially invited to participate in the HACKSECUREX International Hackathon 2025, which will be conducted online via Google Meet.
+            You are cordially invited to participate in the HackSecureX International Hackathon 2025, which will be conducted online via Google Meet.
           </p>
         </div>
 
@@ -128,18 +128,20 @@ const ProgramSchedule = () => {
               </div>
               <Button
                 className="w-full py-6 mb-4 font-bold text-lg"
-                onClick={() =>
-                  window.open(
-                    "https://drive.google.com/file/d/1arcB7bF8zF1gKoGRtH3Qd6v1ZoOOt4A0/view?usp=sharing",
-                    "_blank"
-                  )
-                }
+                // onClick={() =>
+                //   window.open(
+                //     "https://drive.google.com/file/d/1arcB7bF8zF1gKoGRtH3Qd6v1ZoOOt4A0/view?usp=sharing",
+                //     "_blank"
+                //   )
+                // }
+                disabled
               >
                 Day-2 Shortlisted Teams
               </Button> 
               <Button
                 className="w-full"
-                onClick={() => window.open("https://us06web.zoom.us/j/89314386136?pwd=IDTqbgbsYq8aScETddbfpZsoOZnljy.1", "_blank")}
+                // onClick={() => window.open("https://us06web.zoom.us/j/89314386136?pwd=IDTqbgbsYq8aScETddbfpZsoOZnljy.1", "_blank")}
+                disabled
               >
                 <Video className="w-4 h-4 mr-2" />
                 <Award className="w-4 h-4 mr-2" />
