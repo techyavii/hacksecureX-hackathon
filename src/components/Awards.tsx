@@ -9,7 +9,7 @@ const Awards = () => {
       position: "1st Place",
       title: "Hackathon Winners",
       prize: "$1,000",
-      description: "Top-performing team showcasing exceptional innovation, measurable impact and effective implementation in environmental sustainability.",
+      description: "Top-performing team showcasing exceptional innovation, measurable impact and effective implementation in cybersecurity, data privacy, compliance, and emerging technologies.",
       icon: <Crown className="w-8 h-8" />,
       gradient: "from-yellow-400 to-orange-500",
       bgGradient: "from-yellow-50 to-orange-50"
@@ -18,7 +18,7 @@ const Awards = () => {
       position: "2nd Place", 
       title: "1st Runner-Up",
       prize: "$500",
-      description: "Honouring the team that demonstrates strong performance across all judging criteria and notable contributions to environmental impact.",
+      description: "Honouring the team that demonstrates strong performance across all judging criteria and notable contributions to cybersecurity, data privacy, compliance, and emerging technologies.",
       icon: <Trophy className="w-8 h-8" />,
       gradient: "from-gray-400 to-gray-600",
       bgGradient: "from-gray-50 to-slate-50"
@@ -27,7 +27,7 @@ const Awards = () => {
       position: "3rd Place",
       title: "2nd Runner-Up", 
       prize: "$250",
-      description: "Acknowledging outstanding contributions to sustainable innovation with creative and impactful solutions.",
+      description: "Acknowledging outstanding contributions to cybersecurity, data privacy, compliance, and emerging technologie innovation with creative and impactful solutions.",
       icon: <Medal className="w-8 h-8" />,
       gradient: "from-amber-600 to-yellow-700",
       bgGradient: "from-amber-50 to-yellow-50"
@@ -35,12 +35,12 @@ const Awards = () => {
   ];
 
   const thematicAwards = [
-    { theme: "AI-Powered Waste Management System", prize: "$100", icon: "♻️" },
-    { theme: "Predictive Analytics for Climate Change Impact", prize: "$100", icon: "🌡️" },
-    { theme: "Green Energy Optimization through Data Analytics", prize: "$100", icon: "⚡" },
-    { theme: "Cybersecurity for Environmental Data", prize: "$100", icon: "🔒" },
-    { theme: "AI-Driven Precision Agriculture for Sustainable Farming", prize: "$100", icon: "🌱" },
-    { theme: "Smart Urban Planning with Big Data for Green Cities", prize: "$100", icon: "🏙️" }
+    { theme: "AI in Cyber Threat Detection & Prevention", prize: "$100", icon: "🛡️" },
+    { theme: "Data Privacy & Responsible AI Frameworks", prize: "$100", icon: "🔐" },
+    { theme: "Digital Forensics & Legal Evidence Automation", prize: "$100", icon: "🔍" },
+    { theme: "RegTech - AI for Cyber-Law Compliance", prize: "$100", icon: "⚖️" },
+    { theme: "AI for Cybercrime Investigation", prize: "$100", icon: "🕵️" },
+    { theme: "Emerging Tech for Digital Trust", prize: "$100", icon: "🔒" }
   ];
 
 
@@ -50,12 +50,12 @@ const Awards = () => {
         {/* Section Header */}
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-            Win Exciting Awards
+            Win Prestigious Awards
           </h2>
           <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            The HackSecureX International Hackathon 2025 honors outstanding achievements in sustainable innovation 
-            through distinguished awards and impactful prizes.
+            The HackSecureX International Hackathon 2026 honors outstanding achievements in cybersecurity innovation 
+            and legal technology through distinguished awards and impactful prizes.
           </p>
         </div>
           
@@ -100,8 +100,8 @@ const Awards = () => {
                 Thematic Awards
               </h3>
               <p className="text-center text-muted-foreground mb-8 max-w-2xl mx-auto">
-                Exceptional projects within each environmental category will be specially recognized 
-                for their innovative approach and meaningful impact.
+                Exceptional projects within each cybersecurity and legal tech category will be specially recognized 
+                for their innovative approach and real-world impact on digital security and compliance.
               </p>
               
               <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
