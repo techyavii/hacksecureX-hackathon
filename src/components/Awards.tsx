@@ -100,8 +100,7 @@ const Awards = () => {
                 Thematic Awards
               </h3>
               <p className="text-center text-muted-foreground mb-8 max-w-2xl mx-auto">
-                Exceptional projects within each cybersecurity and legal tech category will be specially recognized 
-                for their innovative approach and real-world impact on digital security and compliance.
+                Exceptional projects within each Digital Security will be specially recognized for their innovative approach and meaningful impact.
               </p>
               
               <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">

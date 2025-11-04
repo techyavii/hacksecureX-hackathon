@@ -8,23 +8,23 @@ const JudgeAppointmentCriteriaPage = () => {
   const expertiseDomains = [
     {
       icon: Brain,
-      title: "Neural Architecture Optimization",
-      description: "Leading researchers in neural architecture search, model compression and quantization techniques. Experts who have revolutionized how we build efficient neural networks that deliver maximum performance with minimal computational overhead."
+      title: "AI Security & Ethics",
+      description: "Leading researchers in AI security, ethical AI development, and privacy-preserving machine learning. Experts who have pioneered secure and responsible AI systems that protect user privacy while maintaining high performance."
     },
     {
       icon: Zap,
-      title: "Edge AI & Inference Systems",
-      description: "Pioneers in deploying AI models on resource-constrained environments. Specialists in real-time inference optimization, mobile AI frameworks and IoT machine learning with proven track records in production deployments."
+      title: "Cybersecurity & Digital Forensics",
+      description: "Renowned cybersecurity experts and digital forensics specialists. Leaders in threat detection, incident response, and cyber investigation with extensive experience in both private and public sectors."
     },
     {
       icon: Microscope,
-      title: "ML Research & Academia",
-      description: "Distinguished professors and researchers from top-tier institutions with extensive publications in efficient machine learning, federated learning and sustainable AI practices. Leaders in advancing the theoretical foundations of AI optimization."
+      title: "Legal Technology & RegTech",
+      description: "Distinguished legal technology experts and regulatory compliance specialists. Pioneers in automated compliance systems, legal analytics, and regulatory technology solutions that bridge the gap between law and technology."
     },
     {
       icon: Rocket,
-      title: "AI Infrastructure & Scaling",
-      description: "Industry veterans who have built and scaled AI systems serving millions of users. Experts in distributed computing, model serving architectures and the practical challenges of deploying efficient AI at enterprise scale."
+      title: "Cyber Law & Policy",
+      description: "Leading cyber law practitioners and policy experts. Authorities on international cyber law, data protection regulations, and digital rights who shape the future of technology governance and compliance."
     }
   ];
 
@@ -33,27 +33,27 @@ const JudgeAppointmentCriteriaPage = () => {
       number: "01",
       title: "Technical Mastery",
       points: [
-        "Proven expertise in AI model optimization and efficiency techniques",
-        "Deep understanding of neural network architectures and compression methods",
-        "Hands-on experience with edge computing and resource-constrained deployment"
+        "Proven expertise in cybersecurity, AI security, or legal technology",
+        "Deep understanding of cyber threats and defensive technologies",
+        "Hands-on experience with secure AI systems and privacy-preserving techniques"
       ]
     },
     {
       number: "02",
       title: "Research Excellence",
       points: [
-        "Distinguished track record in top-tier AI conferences and journals",
-        "Leadership roles in cutting-edge AI research or industry innovation",
-        "Recognition as a thought leader in efficient machine learning"
+        "Distinguished track record in cybersecurity or legal tech innovation",
+        "Leadership roles in digital security research or legal technology",
+        "Recognition as a thought leader in cyber law or AI ethics"
       ]
     },
     {
       number: "03",
       title: "Innovation Assessment",
       points: [
-        "Exceptional ability to evaluate novel AI optimization approaches",
-        "Experience in assessing both technical feasibility and market impact",
-        "Track record of identifying breakthrough technologies early"
+        "Exceptional ability to evaluate cybersecurity and legal tech innovations",
+        "Experience in assessing compliance, security, and practical implementation",
+        "Track record of identifying emerging cyber threats and legal challenges"
       ]
     },
     {
@@ -80,22 +80,22 @@ const JudgeAppointmentCriteriaPage = () => {
     {
       number: "01",
       title: "Expert Identification",
-      description: "We identify and invite recognized leaders in AI optimization from top research institutions, leading tech companies and innovative startups pushing the boundaries of efficient AI."
+      description: "We identify and invite recognized leaders in cybersecurity, legal technology, and AI ethics from top institutions, law firms, and innovative tech companies pushing the boundaries of digital security."
     },
     {
       number: "02",
       title: "Expertise Validation",
-      description: "Comprehensive review of candidates' technical contributions, research impact and industry leadership to ensure they possess the depth of knowledge required for fair evaluation."
+      description: "Comprehensive review of candidates' contributions to cybersecurity, legal tech innovation, and ethical AI development to ensure they possess the expertise required for fair evaluation."
     },
     {
       number: "03",
       title: "Diversity & Balance",
-      description: "We carefully balance our panel across different AI optimization domains, ensuring representation from academia, industry and startup ecosystems for comprehensive evaluation perspectives."
+      description: "We carefully balance our panel across cybersecurity, legal tech, and AI ethics domains, ensuring representation from law firms, tech companies, and regulatory bodies for comprehensive evaluation perspectives."
     },
     {
       number: "04",
       title: "Final Calibration",
-      description: "Selected judges participate in calibration sessions to align on evaluation criteria, ethical guidelines and our vision for advancing the state of efficient AI systems."
+      description: "Selected judges participate in calibration sessions to align on evaluation criteria, compliance standards, and our vision for advancing the state of cybersecurity and legal technology."
     }
   ];
 
@@ -118,7 +118,7 @@ const JudgeAppointmentCriteriaPage = () => {
                 Judge Appointment Criteria
               </h1>
               <p className="text-xl md:text-2xl opacity-90 max-w-4xl mx-auto leading-relaxed">
-                At HackSecureX International Hackathon, we ensure a rigorous evaluation process by assembling a distinguished panel of AI optimization experts, environmental innovation pioneers and sustainable technology researchers.
+                At HackSecureX International Hackathon, we ensure a rigorous evaluation process by assembling a distinguished panel of cybersecurity experts, legal technology pioneers, and AI ethics researchers.
               </p>
             </div>
           </div>
@@ -129,10 +129,10 @@ const JudgeAppointmentCriteriaPage = () => {
           <div className="container mx-auto px-4">
             <div className="max-w-4xl mx-auto text-center">
               <p className="text-lg text-muted-foreground leading-relaxed mb-8">
-                Our hackathon on January 16-17, 2026 represents the cutting edge of environmental AI research and development. We've meticulously curated a judging panel comprising world-class experts in sustainable technology, environmental data science, other technologies and green innovation architectures.
+                Our hackathon on January 16-17, 2026 represents the cutting edge of cybersecurity and legal technology innovation. We've meticulously curated a judging panel comprising world-class experts in AI security, digital forensics, legal tech, and cyber law.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Each judge brings decades of experience in evaluating breakthrough solutions that push the boundaries of environmental sustainability while maintaining peak technological performance. They understand the nuanced challenges of deploying AI for environmental impact at scale with minimal resources.
+                Each judge brings extensive experience in evaluating breakthrough solutions that advance digital security and legal compliance. They understand the complex challenges of deploying AI in cybersecurity and legal contexts while maintaining ethical standards and regulatory compliance.
               </p>
             </div>
           </div>
@@ -267,7 +267,7 @@ const JudgeAppointmentCriteriaPage = () => {
                     October 24-25, 2025
                   </p> */}
                   <p className="text-lg opacity-90 leading-relaxed mb-8">
-                    Our distinguished panel of environmental AI experts will be unveiled in July 2025. These industry leaders and researchers will bring unparalleled expertise to evaluate your innovative solutions. Follow our channels for the exciting reveal of these technical visionaries.
+                    Our distinguished panel of cybersecurity experts, legal technology pioneers, and AI ethics leaders will be unveiled in December 2025. These industry leaders will bring unparalleled expertise to evaluate your innovative solutions. Follow our channels for the exciting reveal of these visionaries in digital security and legal technology.
                   </p>
                   
                   <div className="border-t border-white/20 pt-8">

@@ -127,8 +127,7 @@ const Timeline = () => {
             Don't Miss Out!
           </h3>
           <p className="text-muted-foreground mb-6 max-w-2xl mx-auto">
-            Registration opens on August 1st and closes on September 30th. 
-            Make sure to register early to secure your spot in this amazing hackathon!
+            Registration opens on November 1st and closes on December 15th. Make sure to register early to secure your spot in this amazing hackathon!
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <div className="flex items-center gap-2 text-earth-green font-medium">
