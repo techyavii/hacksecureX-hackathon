@@ -113,7 +113,7 @@ const Footer = () => {
         {/* Bottom Footer */}
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-2 text-white/80 text-sm">
-            <span>© HackSecureX International Hackathon 2025</span>
+            <span>© HackSecureX International Hackathon 2026</span>
           </div>
           
           <div className="text-white/60 text-sm text-center md:text-right">

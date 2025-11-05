@@ -4,13 +4,13 @@ import { CheckCircle, Clock, Calendar } from "lucide-react";
 const Timeline = () => {
   const events = [
     {
-      date: "November 1, 2025",
+      date: "November 1, 2026",
       activity: "Registration Opens",
       status: "upcoming",
       icon: <Calendar className="w-5 h-5" />
     },
     {
-      date: "December 15, 2025",
+      date: "December 15, 2026",
       activity: "Registration Closes",
       status: "upcoming",
       icon: <Clock className="w-5 h-5" />
@@ -30,7 +30,7 @@ const Timeline = () => {
     {
       date: "January 16-17, 2026",
       // time: "9:00 AM to 11:30 AM",
-      activity: "HackSecureX 2025 Hackathon",
+      activity: "HackSecureX 2026 Hackathon",
       status: "main-event",
       icon: <Calendar className="w-5 h-5" />
     },
@@ -54,7 +54,7 @@ const Timeline = () => {
           <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
             Mark your calendars! Here's everything you need to know about important dates and milestones 
-            for HackSecureX Hackathon 2025.
+            for HackSecureX Hackathon 2026.
           </p>
         </div>
 

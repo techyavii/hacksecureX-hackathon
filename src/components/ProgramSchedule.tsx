@@ -42,11 +42,11 @@ const ProgramSchedule = () => {
         {/* Header */}
         <div className="text-center mb-16">
           <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-            HackSecureX International Hackathon 2025 Program Schedule
+            HackSecureX International Hackathon 2026 Program Schedule
           </h1>
           <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            You are cordially invited to participate in the HackSecureX International Hackathon 2025, which will be conducted online via Zoom.
+            You are cordially invited to participate in the HackSecureX International Hackathon 2026, which will be conducted online via Zoom.
           </p>
         </div>
 
@@ -73,7 +73,7 @@ const ProgramSchedule = () => {
               <Badge variant="secondary" className="w-fit mx-auto mb-2">Day 1</Badge>
               <CardTitle className="text-2xl text-foreground flex items-center justify-center gap-3">
                 <Calendar className="w-6 h-6 text-earth-green" />
-                January 16, 2025
+                January 16, 2026
               </CardTitle>
               <p className="text-lg font-semibold text-earth-green">Selection Round</p>
             </CardHeader>
