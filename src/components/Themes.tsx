@@ -16,7 +16,7 @@ const Themes = () => {
       icon: <Brain className="w-8 h-8" />,
       title: "AI in Cyber Threat Detection & Prevention",
       color: "from-blue-500 to-cyan-600",
-      badge: "$100 Prize",
+      // badge: "$100 Prize",
       solutions: [
         "Build proactive AI-powered defense systems",
         "Develop intelligent phishing and ransomware detection",
@@ -30,7 +30,7 @@ const Themes = () => {
       icon: <Zap className="w-8 h-8" />,
       title: "Data Privacy & Responsible AI Frameworks",
       color: "from-yellow-500 to-orange-600",
-      badge: "$100 Prize",
+      // badge: "$100 Prize",
       solutions: [
         "Design privacy-preserving AI algorithms",
         "Create automated GDPR/CCPA compliance tools",
@@ -44,7 +44,7 @@ const Themes = () => {
       icon: <MapPin className="w-8 h-8" />,
       title: "Digital Forensics & Legal Evidence Automation",
       color: "from-purple-500 to-pink-600",
-      badge: "$100 Prize",
+      // badge: "$100 Prize",
       solutions: [
         "Build AI-driven evidence collection tools",
         "Create blockchain-based chain-of-custody systems",
@@ -58,7 +58,7 @@ const Themes = () => {
       icon: <Building className="w-8 h-8" />,
       title: "RegTech - AI for Cyber-Law Compliance",
       color: "from-indigo-500 to-purple-600",
-      badge: "$100 Prize",
+      // badge: "$100 Prize",
       solutions: [
         "Develop automated regulatory compliance monitoring",
         "Create AI-powered legal document analysis",
@@ -72,7 +72,7 @@ const Themes = () => {
       icon: <Recycle className="w-8 h-8" />,
       title: "AI for Cybercrime Investigation",
       color: "from-green-500 to-emerald-600",
-      badge: "$100 Prize",
+      // badge: "$100 Prize",
       solutions: [
         "Build AI tools for cybercrime pattern analysis",
         "Create predictive crime modeling systems",
@@ -86,7 +86,7 @@ const Themes = () => {
       icon: <Globe className="w-8 h-8" />,
       title: "Emerging Tech for Digital Trust",
       color: "from-green-600 to-lime-600",
-      badge: "$100 Prize",
+      // badge: "$100 Prize",
       solutions: [
         "Explore blockchain for digital identity and trust",
         "Implement quantum-safe cryptography solutions",

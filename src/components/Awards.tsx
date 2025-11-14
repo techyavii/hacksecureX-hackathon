@@ -115,10 +115,10 @@ const Awards = () => {
                         {award.theme}
                       </h4>
                       <div className="flex items-center justify-center gap-2">
-                        <Badge variant="secondary" className="bg-earth-green/10 text-earth-green font-medium">
+                        {/* <Badge variant="secondary" className="bg-earth-green/10 text-earth-green font-medium">
                           {award.prize}
-                        </Badge>
-                        <span className="text-sm text-muted-foreground">+ Certificate</span>
+                        </Badge> */}
+                        <span className="text-sm text-muted-foreground">Certificate</span>
                       </div>
                     </CardContent>
                   </Card>
@@ -135,7 +135,7 @@ const Awards = () => {
                 </span>
               </div>
               <div className="text-5xl md:text-6xl font-bold mb-4">
-                $2,500
+                $2,000
               </div>
               <p className="text-lg opacity-90 mb-6 max-w-2xl mx-auto">
                 Plus certificates, recognition and networking opportunities with industry experts!
