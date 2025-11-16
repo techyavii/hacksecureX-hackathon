@@ -10,7 +10,16 @@ const Judges = () => {
   image: "/lovable-uploads/Mayank.jpeg",
   expertise: "AI, Robotics, Microservices",
   linkedin: "https://www.linkedin.com/in/mayanksiotia/"
-}
+},
+{
+    name: "Parameswara Reddy Nangi",
+    affiliation: "Sr Hadoop Engineer, Independent Contributor",
+    location: "USA",
+    image: "/lovable-uploads/Reddy.jpeg", // replace with actual uploaded file path
+    expertise: "AI, LLMs, Cyber Security",
+    linkedin: "https://www.linkedin.com/in/paramesh-n-97648819/",
+    email: "iamparameshn@gmail.com"
+  }
   ];
   return (
     <section id="judges" className="py-20 bg-gradient-subtle">
