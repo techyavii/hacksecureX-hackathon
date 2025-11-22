@@ -19,7 +19,16 @@ const Judges = () => {
     expertise: "AI, LLMs, Cyber Security",
     linkedin: "https://www.linkedin.com/in/paramesh-n-97648819/",
     email: "iamparameshn@gmail.com"
-  }
+  },
+  {
+    "name": "Sireesha Devalla",
+    "affiliation": "Senior Software Engineer & Independent Researcher, United Services Automobile Association (USAA)",
+    "location": "USA",
+    "image": "/lovable-uploads/Sireesha.jpeg", 
+    "expertise": "Cloud-Native Systems, Microservices Architecture, Applied AI",
+    "linkedin": "https://www.linkedin.com/in/sireesha-devalla-90b0998b",
+    "email": "Sireesha.Devalla@gmail.com"
+}
   ];
   return (
     <section id="judges" className="py-20 bg-gradient-subtle">
