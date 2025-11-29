@@ -21,14 +21,59 @@ const Judges = () => {
     email: "iamparameshn@gmail.com"
   },
   {
-    "name": "Sireesha Devalla",
-    "affiliation": "Senior Software Engineer & Independent Researcher, United Services Automobile Association (USAA)",
-    "location": "USA",
-    "image": "/lovable-uploads/Sireesha.jpeg", 
-    "expertise": "Cloud-Native Systems, Microservices Architecture, Applied AI",
-    "linkedin": "https://www.linkedin.com/in/sireesha-devalla-90b0998b",
-    "email": "Sireesha.Devalla@gmail.com"
-}
+    name: "Sireesha Devalla",
+    affiliation: "Senior Software Engineer & Independent Researcher, United Services Automobile Association (USAA)",
+    location: "USA",
+    image: "/lovable-uploads/Sireesha.jpeg", 
+    expertise: "Cloud-Native Systems, Microservices Architecture, Applied AI",
+    linkedin: "https://www.linkedin.com/in/sireesha-devalla-90b0998b",
+    email: "Sireesha.Devalla@gmail.com"
+},
+  {
+    name: "Geetha Krishna Sangam",
+    affiliation: "IT Analyst, Tata Consultancy Services",
+    location: "USA",
+    image: "/lovable-uploads/Krishna.jpeg",
+    expertise: "CRM in Finance, AI CRM Modernization, Hyperforce",
+    linkedin: "https://www.linkedin.com/in/g-krishna-sangam-5778b058",
+    email: "sgkrishna1707@gmail.com"
+  },
+  {
+    name: "Jayant Bhat",
+    affiliation: "Director of Enterprise Solutions, AI and Innovation, Sparient Inc.",
+    location: "USA",
+    image: "/lovable-uploads/Jayant.jpeg",
+    expertise: "ERP, AI, Cloud",
+    linkedin: "https://linkedin.com/in/jayantb",
+    email: "jayanthvb@gmail.com"
+  },
+  {
+    name: "Harshit Kohli",
+    affiliation: "Sr Technical Account Manager, Amazon Web Services",
+    location: "USA",
+    image: "/lovable-uploads/Harshit.jpeg",
+    expertise: "Generative AI, Data Analytics, Streaming",
+    linkedin: "https://www.linkedin.com/in/harshit-kohli-99801543",
+    email: "kohli6@gmail.com"
+  },
+  {
+    name: "Yashovardhan Jayaram",
+    affiliation: "Director of Enterprise Content and Digital Experience, Sparient Inc.",
+    location: "USA",
+    image: "/lovable-uploads/Jayaram.jpeg",
+    expertise: "Enterprise Content, Web Content, AI",
+    linkedin: "https://www.linkedin.com/in/yashovardhan-yash-jayaram-ba1156a/",
+    email: "yashovardhan.j@gmail.com"
+  },
+  {
+    name: "Dilliraja Sundar",
+    affiliation: "Director of Data, Analytics, AI and Cloud Engineering, Sparient Inc.",
+    location: "USA",
+    image: "/lovable-uploads/Sundar.jpeg",
+    expertise: "Data, AI, Cloud",
+    linkedin: "https://linkedin.com/in/dillirajasundar",
+    email: "dilliraja86@gmail.com"
+  }
   ];
   return (
     <section id="judges" className="py-20 bg-gradient-subtle">
