@@ -58,6 +58,13 @@ const Advisory = () => {
       location: "USA",
       image: "/lovable-uploads/Bhuvan_Unhelkar.jpeg",
       expertise: "Business & Technology"
+    },
+    {
+      name: "Zahid Akhtar, PhD",
+      affiliation: "Department of Electrical and Computer Engineering, State University of New York Polytechnic Institute",
+      location: "USA",
+      image: "/lovable-uploads/Zahid.png",
+      expertise: "Electrical & Computer Engineering"
     }
   ];
 

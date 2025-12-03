@@ -121,6 +121,13 @@ const Hero = () => {
                 className="h-12 md:h-16 object-contain filter "
               />
             </div>
+            <div className="flex items-center justify-center p-4 bg-white/10 backdrop-blur-sm rounded-lg border border-white/20 hover:bg-white/20 transition-all duration-300">
+              <img 
+                src="/collaborators/suny.jpg" 
+                alt="State University of New York Polytechnic Institute, USA" 
+                className="h-12 md:h-16 object-contain filter "
+              />
+            </div>
           </div>
         </div>
 
