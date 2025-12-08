@@ -23,7 +23,9 @@ const Themes = () => {
         "Create real-time threat analysis and response systems",
         "Implement machine learning for anomaly detection",
         "Design predictive cybersecurity frameworks",
-        "Automate security incident response and mitigation"
+        "Automate security incident response and mitigation",
+        "AI/ML for vehicle and electric mobility",
+        "AI for vehicle cybersecurity"
       ]
     },
     {

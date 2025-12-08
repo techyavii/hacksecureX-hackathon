@@ -4,13 +4,13 @@ import { CheckCircle, Clock, Calendar } from "lucide-react";
 const Timeline = () => {
   const events = [
     {
-      date: "November 1, 2026",
+      date: "November 1, 2025",
       activity: "Registration Opens",
       status: "upcoming",
       icon: <Calendar className="w-5 h-5" />
     },
     {
-      date: "December 15, 2026",
+      date: "December 15, 2025",
       activity: "Registration Closes",
       status: "upcoming",
       icon: <Clock className="w-5 h-5" />
