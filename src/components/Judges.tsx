@@ -73,7 +73,16 @@ const Judges = () => {
     expertise: "Data, AI, Cloud",
     linkedin: "https://linkedin.com/in/dillirajasundar",
     email: "dilliraja86@gmail.com"
-  }
+  },
+    {
+    name: "Mr. Ishu Anand Jaiswal",
+    affiliation: "Engineering Leader, Intuit",
+    location: "USA",
+    image: "/lovable-uploads/Ishu.jpeg",
+    expertise: "Architecting & scaling AI-driven enterprise systems",
+    linkedin: "",
+    email: "ishuanand.jaiswal@gmail.com"
+    }
   ];
   return (
     <section id="judges" className="py-20 bg-gradient-subtle">
