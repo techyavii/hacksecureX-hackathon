@@ -74,6 +74,15 @@ const Judges = () => {
     linkedin: "https://linkedin.com/in/dillirajasundar",
     email: "dilliraja86@gmail.com"
   },
+  {
+    name: "Bhargava Varma Konduru",
+    affiliation: "Sr. Product Manager, Analytics, Amazon",
+    location: "USA",
+    image: "/lovable-uploads/Bhargava.jpeg", 
+    expertise: "Retail & E-commerce Analytics, GenAI, Product Growth",
+    linkedin: "https://www.linkedin.com/in/bhargavakonduru/",
+    email: "kbhargavvarma@gmail.com"
+  },
     {
     name: "Mr. Ishu Anand Jaiswal",
     affiliation: "Engineering Leader, Intuit",
