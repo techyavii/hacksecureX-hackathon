@@ -91,7 +91,53 @@ const Judges = () => {
     expertise: "Architecting & scaling AI-driven enterprise systems",
     linkedin: "",
     email: "ishuanand.jaiswal@gmail.com"
-    }
+    },
+    {
+    name: "Mr. SVNN Mahesh Duriseati",
+    affiliation: "Principal Engineer, T-Mobile USA",
+    location: "USA",
+    image: "/lovable-uploads/Mahesh.jpeg",
+    expertise: "Software Development & Communications and AI",
+    linkedin: "https://www.linkedin.com/in/mahesh-duriseati-14a3428/",
+    email: "maheshsvnn@gmail.com"
+},
+{
+    name: "Mr. Aneesh Varghese",
+    affiliation: "Sr Technical Account Manager, Amazon Web Services",
+    location: "USA",
+    image: "/lovable-uploads/Aneesh.jpeg",
+    expertise: "Generative AI, Cloud Engineering, ML",
+    linkedin: "https://www.linkedin.com/in/aneeshv84/",
+    email: "aneeshv84@gmail.com"
+},
+{
+    name: "Mr. Kamalakar Reddy Ponaka",
+    affiliation: "Director of Software Engineering, Dell Technologies",
+    location: "USA",
+    image: "/lovable-uploads/Kamalakar.jpeg",
+    expertise: "Application and AI/ML Security",
+    linkedin: "https://www.linkedin.com/in/kamalponaka/",
+    email: "kamalakar.ponaka@gmail.com"
+},
+{
+    name: "Mr. Sai Teja Kotagiri",
+    affiliation: "Network Security Analyst, Caliber Tech LLC",
+    location: "USA",
+    image: "/lovable-uploads/Sai.jpeg",
+    expertise: "Cybersecurity – Vulnerability Mgmt, WAF & SOC Ops",
+    linkedin: "https://www.linkedin.com/in/teja-k-5654a7334/",
+    email: "saikotagiri.05@gmail.com"
+},
+{
+    name: "Mr. Vikas Reddy Mandadhi",
+    affiliation: "Lead Software Engineering, Mastercard International",
+    location: "USA",
+    image: "/lovable-uploads/Vikas.jpeg",
+    expertise: "AI ML Blockchain in Finance",
+    linkedin: "",
+    email: "Vikasreddy157548@gmail.com"
+}
+
   ];
   return (
     <section id="judges" className="py-20 bg-gradient-subtle">
