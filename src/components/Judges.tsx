@@ -136,7 +136,26 @@ const Judges = () => {
     expertise: "AI ML Blockchain in Finance",
     linkedin: "",
     email: "Vikasreddy157548@gmail.com"
+},
+{
+  name: "Jeganraja Rajamani",
+  affiliation: "Senior Data Engineer, Amazon",
+  location: "USA",
+  image: "/lovable-uploads/Jeganraja.jpeg",
+  expertise: "Legal Tech, Data Engineering, Gen BI",
+  linkedin: "https://www.linkedin.com/in/jegan-r-437228b/",
+  email: "jeganraja.r@gmail.com"
+},
+{
+  name: "Ashraf Syed",
+  affiliation: "Technical Lead, Virginia Department of Health",
+  location: "USA",
+  image: "/lovable-uploads/Ashraf.jpeg",
+  expertise: "Generative AI, Agentic AI, Healthcare Apps",
+  linkedin: "https://www.linkedin.com/in/ashrafapexing",
+  email: "maverick.ashraf@gmail.com"
 }
+
 
   ];
   return (
