@@ -154,7 +154,17 @@ const Judges = () => {
   expertise: "Generative AI, Agentic AI, Healthcare Apps",
   linkedin: "https://www.linkedin.com/in/ashrafapexing",
   email: "maverick.ashraf@gmail.com"
+},
+{
+  name: "Manoj Pal",
+  affiliation: "Senior Data Engineer, Artnet Worldwide Corporation",
+  location: "Tampa, FL, USA",
+  image: "/lovable-uploads/manoj.jpeg",
+  expertise: "Data Engineering, Data Analytics, Artificial Intelligence, GenAI, LLM",
+  linkedin: "https://www.linkedin.com/in/manoj7pal",
+  email: "manoj7pal@gmail.com",
 }
+
 
 
   ];
