@@ -163,7 +163,26 @@ const Judges = () => {
   expertise: "Data Engineering, Data Analytics, Artificial Intelligence, GenAI, LLM",
   linkedin: "https://www.linkedin.com/in/manoj7pal",
   email: "manoj7pal@gmail.com",
+},
+{
+  name: "Soumya Remella",
+  affiliation: "Senior Technical Program Manager, Microsoft",
+  location: "USA",
+  image: "/lovable-uploads/soumya.jpeg",
+  expertise: "Supply Chain Management, Azure Cloud, Program & Project Management",
+  linkedin: "https://www.linkedin.com/in/soumya-remella/",
+  email: "rsoumya07@gmail.com",
+},
+{
+  name: "Sreedhar Pamidiparthi",
+  affiliation: "FVP, Director of Technical Architecture, WaFd Bank",
+  location: "Redmond, WA, USA",
+  image: "/lovable-uploads/sreedhar.jpeg",
+  expertise: "FinTech, Cyber Security",
+  linkedin: "https://www.linkedin.com/in/spamidiparthi/",
+  email: "sreedhar.pamidiparthi@gmail.com",
 }
+
 
 
 
