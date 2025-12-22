@@ -181,10 +181,25 @@ const Judges = () => {
   expertise: "FinTech, Cyber Security",
   linkedin: "https://www.linkedin.com/in/spamidiparthi/",
   email: "sreedhar.pamidiparthi@gmail.com",
+},
+{
+  name: "Mihir Dhakan",
+  affiliation: "Manager of Data Engineering, Upshop",
+  location: "USA",
+  image: "/lovable-uploads/mihir.jpeg",
+  expertise: "Enterprise Data Solutions",
+  linkedin: "https://www.linkedin.com/in/mihirdhakan/",
+  email: "mihirdhakan.ir@gmail.com",
+},
+{
+  name: "Kalpesh Rathod",
+  affiliation: "Director of Engineering, Lecorpio LLC (An Anaqua Company)",
+  location: "USA",
+  image: "/lovable-uploads/kalpesh.jpeg",
+  expertise: "Cloud-native SaaS, AI",
+  linkedin: "https://linkedin.com/in/kalpesh-rathod-6675b113/",
+  email: "kmrathod242@gmail.com",
 }
-
-
-
 
   ];
   return (
