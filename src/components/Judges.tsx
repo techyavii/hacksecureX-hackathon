@@ -199,7 +199,26 @@ const Judges = () => {
   expertise: "Cloud-native SaaS, AI",
   linkedin: "https://linkedin.com/in/kalpesh-rathod-6675b113/",
   email: "kmrathod242@gmail.com",
-}
+},
+{
+  name: "Srinivasa M Kona",
+  affiliation: "Sr Technical Lead, Cisco Systems Inc.",
+  location: "USA",
+  image: "/lovable-uploads/srinivasa.jpeg",
+  expertise: "Data Center, Computer Networks, Telecom",
+  linkedin: "https://www.linkedin.com/in/srinivasa-kona-7a5280a/",
+  email: "srinivasa.kona@outlook.com"
+},
+{
+  name: "Balaramakrishna Alti",
+  affiliation: "AVP Systems Engineering, Moody’s",
+  location: "USA",
+  image: "/lovable-uploads/balaram.jpeg",
+  expertise: "Linux Automation, AWS Cloud, Cybersecurity",
+  linkedin: "https://www.linkedin.com/in/balaramakrishna-alti-b9924b278",
+  email: "altibalaram@gmail.com"
+},
+
 
   ];
   return (
