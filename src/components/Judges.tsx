@@ -218,6 +218,34 @@ const Judges = () => {
   linkedin: "https://www.linkedin.com/in/balaramakrishna-alti-b9924b278",
   email: "altibalaram@gmail.com"
 },
+{
+  name: "Sesha Sai Sravanthi Valiveti",
+  affiliation: "Software Engineer, Bank of America",
+  location: "USA",
+  image: "/lovable-uploads/sravanthi.jpeg",
+  expertise: ".NET Full Stack, DevOps, AI/Cloud",
+  linkedin: "https://www.linkedin.com/in/sesha-s-sravanthi-7159b7238",
+  email: "tosravanthikss@gmail.com"
+},
+{
+  name: "Sai Raghavendra Varanasi",
+  affiliation: "Change & Release Manager, Cigna Healthcare",
+  location: "USA",
+  image: "/lovable-uploads/sai-raghavendra.jpeg",
+  expertise: "DevOps, Release Management, AI/Cloud",
+  linkedin: "https://www.linkedin.com/in/s-raghavendra-v-216145386",
+  email: "Varanasi.raghavendra@gmail.com"
+},
+{
+  name: "Prajkta Waditwar",
+  affiliation: "Senior Manager – Strategic Sourcing, Box Inc",
+  location: "USA",
+  image: "/lovable-uploads/prajkta.jpeg",
+  expertise: "AI Procurement, Supply Chain, Strategic Sourcing",
+  linkedin: "https://www.linkedin.com/in/prajkta-waditwar-6090aa19",
+  email: "prajkta.waditwar@gmail.com"
+}
+
 
 
   ];
