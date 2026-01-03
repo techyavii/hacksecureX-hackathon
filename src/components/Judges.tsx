@@ -244,7 +244,27 @@ const Judges = () => {
   expertise: "AI Procurement, Supply Chain, Strategic Sourcing",
   linkedin: "https://www.linkedin.com/in/prajkta-waditwar-6090aa19",
   email: "prajkta.waditwar@gmail.com"
+},
+{
+  name: "Siva Sai Krishna Suryadevara",
+  affiliation: "Sr AEM DevOps Engineer, Maganti IT Resources",
+  location: "USA",
+  image: "/lovable-uploads/Siva.jpeg",
+  expertise: "Cloud DevOps, AWS, CI/CD",
+  linkedin: "https://www.linkedin.com/in/siva-sai-krishna-s-5a8677186",
+  email: "sivasaikrishna.suryadevara@gmail.com"
+},
+{
+  name: "Tanay Chowdhury",
+  affiliation: "Data Science Lead, Amazon",
+  location: "USA",
+  image: "/lovable-uploads/Tanay.jpeg",
+  expertise: "Data Science, ML, Analytics",
+  linkedin: "https://www.linkedin.com/in/tanayz/",
+  email: "tanayz@outlook.com"
 }
+
+
 
 
 
