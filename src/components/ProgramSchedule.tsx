@@ -86,11 +86,10 @@ const ProgramSchedule = () => {
                 </p>
               </div>
               <Button
-                disabled
                 className="w-full py-6 mb-4 font-bold text-lg"
                 onClick={() =>
                   window.open(
-                    "https://drive.google.com/file/d/1f0wQQDYRpkCJ9GX4QxLOro4KclwyBq-B/view?usp=sharing",
+                    "https://docs.google.com/spreadsheets/d/1WLwjWGbQtz-LQtGVh1uRps1l3czf_bBDppU57dEWN_w/edit?usp=sharing",
                     "_blank"
                   )
                 }
@@ -98,9 +97,8 @@ const ProgramSchedule = () => {
                 Day-1 Shortlisted Teams
               </Button> 
               <Button
-                disabled
                 className="w-full"
-                onClick={() => window.open("https://us06web.zoom.us/j/84292594940?pwd=Cvn92JVqKuTS2lTxEjtPPLcJN2gSx9.1", "_blank")}
+                onClick={() => window.open("https://us06web.zoom.us/j/86789472247?pwd=qZVtAXdarO46gUKsWBbCOJQTI1sMWH.1", "_blank")}
               >
                 <Video className="w-4 h-4 mr-2" />
                 Join Session
@@ -140,8 +138,7 @@ const ProgramSchedule = () => {
               </Button> 
               <Button
                 className="w-full"
-                // onClick={() => window.open("https://us06web.zoom.us/j/89314386136?pwd=IDTqbgbsYq8aScETddbfpZsoOZnljy.1", "_blank")}
-                disabled
+                onClick={() => window.open("https://us06web.zoom.us/j/81925476598?pwd=nezR51Wi2Z5XH0VYGmelZNEWHnZJen.1", "_blank")}
               >
                 <Video className="w-4 h-4 mr-2" />
                 <Award className="w-4 h-4 mr-2" />
