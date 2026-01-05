@@ -262,6 +262,24 @@ const Judges = () => {
   expertise: "Data Science, ML, Analytics",
   linkedin: "https://www.linkedin.com/in/tanayz/",
   email: "tanayz@outlook.com"
+},
+{
+  name: "Sreekanth Muktevi",
+  affiliation: "Vice President, IT Services, YASH Technologies Inc.",
+  location: "USA",
+  image: "/lovable-uploads/Sreekanth.jpeg",
+  expertise: "Digital Transformation, Technology Strategy",
+  linkedin: "https://www.linkedin.com/in/sreemuktevi/",
+  email: "sreekanth.muktevi@yash.com"
+},
+{
+  name: "Sheshank Kodam",
+  affiliation: "Staff Engineer, Ibotta",
+  location: "USA",
+  image: "/lovable-uploads/SheshankK.jpeg",
+  expertise: "Cloud Architecture, IaC, Secure Systems",
+  linkedin: "https://www.linkedin.com/in/sheshankkodam/",
+  email: "sheshank.kodam@gmail.com"
 }
 
 
