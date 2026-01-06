@@ -280,8 +280,25 @@ const Judges = () => {
   expertise: "Cloud Architecture, IaC, Secure Systems",
   linkedin: "https://www.linkedin.com/in/sheshankkodam/",
   email: "sheshank.kodam@gmail.com"
+},
+{
+  name: "Chirag Mavani",
+  affiliation: "Cloud/DevSecOps Engineer, Ealearn Inc.",
+  location: "Fremont, California, USA",
+  image: "/lovable-uploads/Chirag.jpeg",
+  expertise: "Cybersecurity, DevSecOps, Microservices",
+  linkedin: "https://www.linkedin.com/in/chirag-mavani",
+  email: "chiragmavanii@gmail.com"
+},
+{
+  name: "Hirenkumar Mistry",
+  affiliation: "Sr. Linux/Kubernetes & Cloud Platform Engineer, Zenosys Inc.",
+  location: "San Jose, California, USA",
+  image: "/lovable-uploads/Hirenkumar.jpeg",
+  expertise: "Cloud-Native, SecOps, Microservices",
+  linkedin: "https://www.linkedin.com/in/hiren-mistry-4a027935",
+  email: "hiren_mistry1978@yahoo.com"
 }
-
 
 
 
