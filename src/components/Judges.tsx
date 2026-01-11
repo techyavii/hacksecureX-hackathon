@@ -298,10 +298,16 @@ const Judges = () => {
   expertise: "Cloud-Native, SecOps, Microservices",
   linkedin: "https://www.linkedin.com/in/hiren-mistry-4a027935",
   email: "hiren_mistry1978@yahoo.com"
+},
+{
+  name: "Venkata Pavan Kumar Gummadi",
+  affiliation: "Professional Software Engineer (MuleSoft Architect), Broadridge Financials",
+  location: "—",
+  image: "/lovable-uploads/Venkata.jpeg",
+  expertise: "Integration, MuleSoft",
+  linkedin: "https://www.linkedin.com/in/venkata-p-1841146/",
+  email: "venkata.p.gummadi1@gmail.com"
 }
-
-
-
 
   ];
   return (
