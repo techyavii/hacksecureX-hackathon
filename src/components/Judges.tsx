@@ -302,11 +302,20 @@ const Judges = () => {
 {
   name: "Venkata Pavan Kumar Gummadi",
   affiliation: "Professional Software Engineer (MuleSoft Architect), Broadridge Financials",
-  location: "—",
+  location: "USA",
   image: "/lovable-uploads/Venkata.jpeg",
   expertise: "Integration, MuleSoft",
   linkedin: "https://www.linkedin.com/in/venkata-p-1841146/",
   email: "venkata.p.gummadi1@gmail.com"
+},
+{
+  name: "Prashanthi Gutha",
+  affiliation: "Vice President – Digital Software Engineering Lead Analyst, Citi",
+  location: "USA",
+  image: "/lovable-uploads/prashanti.jpg",
+  expertise: "Cloud Native, DevSecOps",
+  linkedin: "https://www.linkedin.com/in/shanthi-g-310551138/",
+  email: "prashanthig2020@gmail.com"
 }
 
   ];
