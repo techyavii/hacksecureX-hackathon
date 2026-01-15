@@ -46,7 +46,7 @@ const Footer = () => {
               </div>
               <div>
                 <h3 className="text-2xl font-bold">HackSecureX Hack</h3>
-                <p className="text-white/80 text-sm">One Planet. One Purpose.</p>
+                <p className="text-white/80 text-sm">Code. Comply. Conquer. The AI Cyber Law Challenge.</p>
               </div>
             </div>
             <p className="text-white/90 leading-relaxed mb-6 max-w-md">
