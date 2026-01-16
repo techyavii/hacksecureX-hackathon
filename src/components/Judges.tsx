@@ -316,7 +316,26 @@ const Judges = () => {
   expertise: "Cloud Native, DevSecOps",
   linkedin: "https://www.linkedin.com/in/shanthi-g-310551138/",
   email: "prashanthig2020@gmail.com"
+},
+{
+  name: "Deepan Vishal Thulasi Vel",
+  affiliation: "Lead Data Scientist, CVS Aetna",
+  location: "USA",
+  image: "/lovable-uploads/Deepan.jpeg",
+  expertise: "AI/ML, Healthcare",
+  linkedin: "http://www.linkedin.com/in/deepanvishal",
+  email: "deepanvishal@gmail.com"
+},
+{
+  name: "Manoj Parasa",
+  affiliation: "Senior SAP SuccessFactors Consultant, Ernst & Young",
+  location: "USA",
+  image: "/lovable-uploads/ManojParasa.jpeg",
+  expertise: "SAP SuccessFactors, AI",
+  linkedin: "https://www.linkedin.com/in/manoj-parasa",
+  email: "manojparasa1993@gmail.com"
 }
+
 
   ];
   return (
