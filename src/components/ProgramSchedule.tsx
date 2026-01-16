@@ -97,6 +97,7 @@ const ProgramSchedule = () => {
                 Day-1 Shortlisted Teams
               </Button> 
               <Button
+                disabled
                 className="w-full"
                 onClick={() => window.open("https://us06web.zoom.us/j/86789472247?pwd=qZVtAXdarO46gUKsWBbCOJQTI1sMWH.1", "_blank")}
               >
@@ -126,13 +127,12 @@ const ProgramSchedule = () => {
               </div>
               <Button
                 className="w-full py-6 mb-4 font-bold text-lg"
-                // onClick={() =>
-                //   window.open(
-                //     "https://drive.google.com/file/d/1arcB7bF8zF1gKoGRtH3Qd6v1ZoOOt4A0/view?usp=sharing",
-                //     "_blank"
-                //   )
-                // }
-                disabled
+                onClick={() =>
+                  window.open(
+                    "https://drive.google.com/file/d/1MeHbbrr06lEEM6e8B88MW1yhFLHqb_a-/view?usp=sharing",
+                    "_blank"
+                  )
+                }
               >
                 Day-2 Shortlisted Teams
               </Button> 
