@@ -65,6 +65,13 @@ const Advisory = () => {
       location: "USA",
       image: "/lovable-uploads/Zahid.png",
       expertise: "Electrical & Computer Engineering"
+    },
+    {
+      name: "Dr. Deepak Gupta",
+      affiliation: "Department of Computer Science and Engineering, Maharaja Agrasen institute of Technology (GGSIPU)",
+      location: "India",
+      image: "/lovable-uploads/DeepakSir.jpg",
+      expertise: "Computer Science & Engineering"
     }
 
   ];
