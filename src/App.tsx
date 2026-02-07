@@ -15,6 +15,7 @@ import EligibilityPage from "./pages/EligibilityPage";
 import AwardsPage from "./pages/AwardsPage";
 import JudgeAppointmentCriteriaPage from "./pages/JudgeAppointmentCriteriaPage";
 import JudgeRecognitionAwardsPage from "./pages/JudgeRecognitionAwardsPage";
+import ResultsPage from "./pages/ResultPage";
 
 const queryClient = new QueryClient();
 
@@ -37,7 +38,8 @@ const App = () => (
           <Route path="/program-schedule" element={<ProgramSchedulePage />} />
           <Route path="/judge-appointment-criteria" element={<JudgeAppointmentCriteriaPage />} />
           <Route path="/judge-recognition-awards" element={<JudgeRecognitionAwardsPage />} />
-          
+          <Route path="/results" element={<ResultsPage />} />
+
           {/* Catch-all route for 404 Not Found */}
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
