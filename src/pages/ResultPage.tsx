@@ -36,16 +36,16 @@ const ResultsPage = () => {
           </p>
 
           {/* Results Button */}
-          {/* <div className="mt-10">
+          <div className="mt-10">
             <a
-              href="https://drive.google.com/file/d/1464NfCY8P0-XdI7P_Gbk4FKYRtqfz3jv/view?usp=sharing"
+              href="https://drive.google.com/file/d/1LoA2MD_DEQ4aF4amtGTodq-WBtZiqZz4/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-[#2d6a4f] text-white px-8 py-4 rounded-xl font-semibold text-lg hover:bg-[#1b4332] transition"
             >
               📄 See Results (PDF)
             </a>
-          </div> */}
+          </div>
 
           {/* Feedback Videos */}
           <section className="mt-20">
