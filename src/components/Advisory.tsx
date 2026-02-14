@@ -72,7 +72,15 @@ const Advisory = () => {
       location: "India",
       image: "/lovable-uploads/DeepakSir.jpg",
       expertise: "Computer Science & Engineering"
+    },
+    {
+      name: "Dr. Utku Kose",
+      affiliation: "Suleyman Demirel University",
+      location: "Turkey",
+      image: "/lovable-uploads/Utku_Kose.jpeg",
+      expertise: "Artificial Intelligence & Cybersecurity"
     }
+
 
   ];
 
